@@ -6,7 +6,7 @@ The Task Management Application is a full-stack web application designed to allo
 
 
 
-
+ 
 https://github.com/user-attachments/assets/ca44488d-9e30-41f9-9d15-8a0c4619a245
 
 >>>>>>> 074408e70d4f5be49a309c61d34d296c2b88cf7f
