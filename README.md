@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Task-Management-System
+The Task Management Application is a full-stack web application designed to allow users to manage their tasks efficiently. It features secure authentication, task creation and management, and the ability to export tasks as an Excel file. Here's a detailed description of the components and functionalities:
+
+
+
+
+
+
+https://github.com/user-attachments/assets/ca44488d-9e30-41f9-9d15-8a0c4619a245
+
+>>>>>>> 074408e70d4f5be49a309c61d34d296c2b88cf7f
